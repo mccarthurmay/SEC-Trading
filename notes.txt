@@ -1,0 +1,68 @@
+Company: Blaize Holdings, Inc.
+positive 60 70
+8.35
+8.29 - 120,650
+
+Filing Date: 2025-01-1717:20:13
+Company: Kairos Pharma, LTD.
+positive 60% 70%
+1.77
+1.82 - 2,292,590
+
+
+
+Filing Date: 2025-01-1717:22:08
+Company: Aclarion, Inc.
+neutral 60% 70%
+.04
+.04 - 15,925,000
+
+Filing Date: 2025-01-1717:09:42
+Company: Trinseo PLC
+neutral 55% 70%
+4.47
+4.35 - 300,000
+
+Filing Date: 2025-01-1717:10:07
+Company: Nuburu, Inc.
+positive 60% 75%
+.44
+.45 - 7,952,000
+
+
+Filing Date: 2025-01-1717:15:20
+Company: GIFTIFY, INC.
+neutral 60% 75%
+1.029
+1.02 - 52,308
+
+I think you should weed out penny stocks using yfinance. Also reduce the words produced in output
+
+DAY 2
+=========================================================
+
+
+Filing Date: 2025-01-2116:01:53
+Company: MICRON TECHNOLOGY INC
+positive 
+
+109.31
+
+Filing Date: 2025-01-2116:15:57
+Company: Cadre Holdings, Inc.
+39.68
+positive
+
+
+Flowco
+positive
+30.01
+
+
+cnx
+neutral
+30.01
+
+CIENA Corp
+neutral
+88.02/88.68

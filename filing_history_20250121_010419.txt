@@ -1,0 +1,40 @@
+=== Filing Analysis History ===
+
+CIK: 0001760233
+Filing Date: 2025-01-1717:15:20
+Sentiment: neutral 60% 75%
+Analysis Date: 2025-01-20
+==================================================
+CIK: 0001814215
+Filing Date: 2025-01-1717:10:07
+Sentiment: positive 60% 75%
+Analysis Date: 2025-01-20
+==================================================
+CIK: 0001519061
+Filing Date: 2025-01-1717:09:42
+Sentiment: neutral 55% 70%
+Analysis Date: 2025-01-20
+==================================================
+CIK: 0001635077
+Filing Date: 2025-01-1717:22:08
+Sentiment: Based on the 8-K Item 1.01 content provided, the likelihood of the stock price increasing or decreasing is:
+
+neutral 60% 70%
+
+The company entered into an underwriting agreement for the offer and sale of shares, pre-funded warrants, and common warrants. While the offering could potentially raise significant capital for the company if the warrants are exercised, there are also factors that could limit the stock's upside potential in the near term
+Analysis Date: 2025-01-19
+==================================================
+CIK: 0001962011
+Filing Date: 2025-01-1717:20:13
+Sentiment: Based on the 8-K Item 1.01 content provided, the likelihood of the stock price movement is:
+
+positive 60% 70%
+Analysis Date: 2025-01-19
+==================================================
+CIK: 0001871638
+Filing Date: 2025-01-1717:19:18
+Sentiment: Based on the 8-K Item 1.01 content provided, the likelihood of the stock price increasing or decreasing is:
+
+positive 60% 75%
+Analysis Date: 2025-01-19
+==================================================
